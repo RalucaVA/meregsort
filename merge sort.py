@@ -49,8 +49,8 @@ def mergeSort(dataset, l, r):
  
 import random
 dataset=[]
-for i in range(9999):
-    x=random.randrange(0, 30033)
+for i in range(4902939):
+    #x=random.randrange(0, 500000339783)
     dataset.append(x)
 n = len(dataset)
 for i in range(n):
